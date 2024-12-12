@@ -1,6 +1,6 @@
 # 🛠️ NetSpectre
 
-![NetSpectre](assets/imagem/)
+![NetSpectre](assets/imagem/NETSpectre.png)
 
 NetSpectre é uma ferramenta de análise de rede poderosa, desenvolvida por DEDSEC. Ela permite varrer redes locais, identificar dispositivos conectados, descobrir portas abertas e verificar vulnerabilidades comuns em serviços. Ideal para **pentesters** e **hackers éticos** que desejam explorar e proteger suas redes.
 
